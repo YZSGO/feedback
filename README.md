@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/YZSGO/feedback/issues/new">
-    <img src="https://img.shields.io/badge/%E7%82%B9%E5%87%BB%E6%8F%90%E4%BA%A4%E5%8F%8D%E9%A6%88-%E2%86%92-00b341?style=for-the-badge&logo=github&logoColor=white&labelColor=00b341" alt="点击提交反馈" height="44">
+    <img src="https://img.shields.io/badge/%E7%82%B9%E5%87%BB%E6%8F%90%E4%BA%A4%E5%8F%8D%E9%A6%88-%E2%86%92-0a7d33?style=for-the-badge&logo=github&logoColor=white&labelColor=0a7d33" alt="点击提交反馈" height="44">
   </a>
 </p>
 
